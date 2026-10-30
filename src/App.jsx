@@ -1,10 +1,12 @@
 import './App.css'
-import TestComponent from './TestComponent'
+import Card from './components/Card'
 
 function App() {
 
   return (
-    <TestComponent />
+    <Card firstName="Mainul" lastName="Islam" age={25}>
+      <h1>Welcome</h1>
+    </Card>
   )
 }
 
