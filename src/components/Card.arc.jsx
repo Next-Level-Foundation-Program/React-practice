@@ -1,4 +1,4 @@
-import "./Card.css"
+// import "./Card.css"
 //  Props and children
 
 // export default function Card(probs) {
